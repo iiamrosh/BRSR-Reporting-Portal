@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BRSR Nexus
 
 A governed ESG reporting platform for the BPUT Hackathon problem statement, built with Next.js, FastAPI, PostgreSQL, and Docker Compose.
@@ -77,3 +78,6 @@ Not yet implemented end to end:
 - Enterprise SSO and production-grade organization scoping
 
 See `docs/IMPLEMENTATION_STATUS.md` for detailed maturity and verification steps.
+=======
+# BRSR-Reporting-Portal
+>>>>>>> 4088f6fca040f0b5b67120562bf3b035ed34e903
