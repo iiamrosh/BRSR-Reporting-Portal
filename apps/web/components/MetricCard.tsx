@@ -1,0 +1,1 @@
+export function MetricCard({label,value,note,tone="blue"}:{label:string;value:string;note:string;tone?:string}){return <article className={`metric-card ${tone}`}><div className="metric-icon"/><p>{label}</p><strong>{value}</strong><small>{note}</small></article>}

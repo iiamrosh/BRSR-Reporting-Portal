@@ -1,0 +1,1 @@
+export function Progress({label,value}:{label:string;value:number}){return <div className="progress-row"><div><span>{label}</span><b>{value}%</b></div><div className="track"><i style={{width:`${value}%`}}/></div></div>}
